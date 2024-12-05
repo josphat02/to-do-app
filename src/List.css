@@ -1,0 +1,21 @@
+.Item{
+    display:flex;
+    justify-content: space-between;
+    margin:10px;
+    width:100px;
+    height:20px;
+    border:1px solid #ede716
+    border-radius:2px;
+    padding:10px;
+    background:rgb(77,24,77);
+
+p{
+    margin:0;
+    font-family:"fantasy"
+
+}
+.Item button{
+    width:20px;
+    height:20px;
+    border-radius:50%;
+}
